@@ -1,0 +1,8 @@
+.venv
+__pycache__
+*.pyc
+.git
+.pytest_cache
+deploy_key
+deploy_key.pub
+tests
